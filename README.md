@@ -70,7 +70,15 @@ swapicon.js の内容として以下のコードを記述します。
 
 img というフォルダを作成し、その中に画像ファイルをアップロードします。
 
-画像ファイルをここからダウンロードしておきます。
+画像ファイルを以下のリンクよりらダウンロードしておきます。
+
+https://github.com/kurod1492/aws-cloud9-js/raw/master/mail.png
+
+https://github.com/kurod1492/aws-cloud9-js/raw/master/chat.png
+
+https://github.com/kurod1492/aws-cloud9-js/raw/master/doc.png
+
+https://github.com/kurod1492/aws-cloud9-js/raw/master/spreadsheet.png
 
 js-test フォルダを右クリックして New Folder をクリックすると新しいフォルダが作成されますので、img と入力してエンターを押します。
 
